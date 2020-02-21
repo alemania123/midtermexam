@@ -15,3 +15,16 @@
 9. c
 10. b 
 
+
+# Part 2 - True or False 
+
+1. True
+2. True
+3. False 
+4. False 
+5. True 
+6. True 
+7. True
+8. False 
+9. False 
+10. True
