@@ -28,3 +28,6 @@
 8. False 
 9. False 
 10. True
+
+UserName: Camille Alemania 
+Password: alemania
